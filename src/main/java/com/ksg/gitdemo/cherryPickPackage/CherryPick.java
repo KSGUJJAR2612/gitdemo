@@ -5,4 +5,5 @@ package com.ksg.gitdemo.cherryPickPackage;
  */
 public class CherryPick {
     String x= "text added to cherry-pick";
+    String b="cherry pick B";
 }
